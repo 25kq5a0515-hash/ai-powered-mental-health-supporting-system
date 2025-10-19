@@ -1,0 +1,26 @@
+date,entry,mood,confidence,advice,alert_level
+2025-10-13 18:07:49.525388,I'm feeling great today! Everything is going well.,POSITIVE,0.9998784065246582,Keep doing what you're doing. You're thriving!,LOW
+2025-10-13 18:07:49.597541,I'm really sad and don't know what to do.,NEGATIVE,0.9996929168701172,Take a 15-minute walk or practice deep breathing.,LOW
+2025-10-13 18:07:49.652391,"Just another regular day, nothing special.",NEGATIVE,0.9994089603424072,Reach out to a friend or therapist. You're not alone.,LOW
+2025-10-13 18:07:49.705031,I feel so happy and excited about the future!,POSITIVE,0.9998785257339478,Your optimism is contagious. Share it with others!,LOW
+2025-10-13 18:07:49.759743,I'm struggling with anxiety today.,NEGATIVE,0.9881404638290404,It's okay to feel down. Consider talking to someone. 💙,LOW
+2025-10-13 18:11:12.650468,happy,POSITIVE,0.99987530708313,Your optimism is contagious. Share it with others!,LOW
+2025-10-13 18:12:14.153052,happy because i done my project and feeling very overwhelmed,POSITIVE,0.999873161315918,Your optimism is contagious. Share it with others!,LOW
+2025-10-13 18:12:55.499259,happy,POSITIVE,0.99987530708313,Your optimism is contagious. Share it with others!,LOW
+2025-10-14 10:30:13.703490,I'm feeling great today! Everything is going well.,POSITIVE,0.9998784065246582,Your optimism is contagious. Share it with others!,LOW
+2025-10-14 10:30:13.779946,I'm really sad and don't know what to do.,NEGATIVE,0.9996929168701172,Take a 15-minute walk or practice deep breathing.,LOW
+2025-10-14 10:30:13.840303,"Just another regular day, nothing special.",NEGATIVE,0.9994089603424072,Reach out to a friend or therapist. You're not alone.,LOW
+2025-10-14 10:30:13.890460,I feel so happy and excited about the future!,POSITIVE,0.9998785257339478,Keep doing what you're doing. You're thriving!,LOW
+2025-10-14 10:30:13.950640,I'm struggling with anxiety today.,NEGATIVE,0.9881404638290404,It's okay to feel down. Consider talking to someone. 💙,LOW
+2025-10-14 10:30:34.569819,I'm feeling great today! Everything is going well.,POSITIVE,0.9998784065246582,Your optimism is contagious. Share it with others!,LOW
+2025-10-14 10:30:34.620027,I'm really sad and don't know what to do.,NEGATIVE,0.9996929168701172,Try journaling or meditation to process these feelings.,LOW
+2025-10-14 10:30:34.682304,"Just another regular day, nothing special.",NEGATIVE,0.9994089603424072,Take a 15-minute walk or practice deep breathing.,LOW
+2025-10-14 10:30:34.734903,I feel so happy and excited about the future!,POSITIVE,0.9998785257339478,Keep doing what you're doing. You're thriving!,LOW
+2025-10-14 10:30:34.791618,I'm struggling with anxiety today.,NEGATIVE,0.9881404638290404,Try journaling or meditation to process these feelings.,LOW
+2025-10-14 10:33:04.108066,happy,POSITIVE,0.9998753070831299,Your optimism is contagious. Share it with others!,LOW
+2025-10-14 10:35:56.024412,"happy
+",POSITIVE,0.9998753070831299,Amazing! Keep channeling this positive energy! 🌟,LOW
+2025-10-14 10:36:10.160291,"sad
+",NEGATIVE,0.999589741230011,Reach out to a friend or therapist. You're not alone.,LOW
+2025-10-14 10:46:35.327817,happy,POSITIVE,0.9998753070831299,Your optimism is contagious. Share it with others!,LOW
+2025-10-14 10:49:47.430921,not well,NEGATIVE,0.9997451901435852,Take a 15-minute walk or practice deep breathing.,LOW
