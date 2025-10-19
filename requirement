@@ -1,0 +1,102 @@
+
+# Mood-Chat Requirements
+# Python 3.8+
+
+# Core Libraries
+streamlit==1.28.1
+pandas==2.0.3
+numpy==1.24.3
+
+# AI & NLP
+transformers==4.30.2
+torch==2.0.1
+scikit-learn==1.3.0
+
+# Data & Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Utilities
+python-dateutil==2.8.2
+requests==2.31.0
+pytz==2023.3
+
+# Optional: For better performance
+accelerate==0.20.3
+
+
+# ============= INSTALLATION GUIDE =============
+# 
+# 1. Create virtual environment:
+#    python -m venv venv
+#
+# 2. Activate virtual environment:
+#    - Windows: venv\Scripts\activate
+#    - macOS/Linux: source venv/bin/activate
+#
+# 3. Install dependencies:
+#    pip install -r requirements.txt
+#
+# 4. Download required models (first run):
+#    python -c "from transformers import pipeline; pipeline('text-classification', model='distilbert-base-uncased-finetuned-sst-2-english')"
+#    python -c "from transformers import pipeline; pipeline('sentiment-analysis')"
+#
+# 5. Run the application:
+#    streamlit run app.py
+#
+# 6. Open browser to: http://localhost:8501
+#
+# ============= TROUBLESHOOTING =============
+#
+# Issue: Model downloading issues
+# Solution: Increase timeout or use: HF_HOME=./models streamlit run app.py
+#
+# Issue: Memory issues on weak machines
+# Solution: Use a smaller model variant or clear cache: rm -rf ~/.cache/huggingface/
+#
+# Issue: Streamlit not found
+# Solution: Ensure venv is activated and reinstall: pip install streamlit
+#
+# ============= PROJECT STRUCTURE =============
+#
+# Mood-Chat/
+# ├── app.py              # Main Streamlit application (frontend)
+# ├── backend.py          # AI logic and mood tracking (backend)
+# ├── requirements.txt    # Python dependencies
+# ├── mood_log.csv        # Mood history (auto-generated)
+# ├── README.md           # Project documentation
+# ├── .gitignore          # Git ignore file
+# └── slides.pptx         # Presentation slides
+#
+# ============= GIT IGNORE =============
+#
+# __pycache__/
+# *.py[cod]
+# *$py.class
+# *.so
+# .Python
+# venv/
+# env/
+# ENV/
+# build/
+# develop-eggs/
+# dist/
+# downloads
+# eggs/
+# .eggs/
+# lib/
+# lib64/
+# parts/
+# sdist/
+# var/
+# wheels/
+# *.egg-info/
+# .installed.cfg
+# *.egg
+# .streamlit/
+# .vscode/
+# .idea/
+# *.csv
+# .DS_Store
+# models/
+# *.log
